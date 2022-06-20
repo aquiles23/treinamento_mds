@@ -1,0 +1,13 @@
+{
+    "name": "yarn-example",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.1",
+        "swagger-ui-dist": "^4.12"
+    },
+    "scripts": {
+        "dev": "nodemon index.js"
+    }
+}
