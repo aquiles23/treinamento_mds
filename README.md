@@ -38,3 +38,8 @@ Primeiramente é necessário ter o docker instalado, caso não tenha acesse o [I
  ```terminal
   docker compose logs -f
  ```
+
+   &emsp;&emsp; caso não tenha permissão para criar arquivos na pasta do container:
+ ```terminal
+  sudo chown -R $USER:$USER .
+ ```
