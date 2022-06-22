@@ -6,7 +6,11 @@
 Primeiramente é necessário ter o docker instalado, caso não tenha acesse o [Instalação docker](https://docs.docker.com/engine/installation/linux/docker-ce/). Após a instalação, configure o docker para rodar em modo usuário, leia as [instruções de pós-instalçao](https://docs.docker.com/engine/install/linux-postinstall/)
 
 ### Utilizando o ambiente
-
+&emsp;&emsp; para construir a imagem:
+ 
+ ```terminal
+  docker compose build
+ ```
  &emsp;&emsp; Para a utilização do ambiente, basta dar o comando abaixo e ele irá ligar o container:
  
  ```terminal
