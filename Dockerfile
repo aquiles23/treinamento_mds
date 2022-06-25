@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM python:3.10
 WORKDIR /api
 COPY ./api/package.json /api/package.json
 

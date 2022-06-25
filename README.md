@@ -1,4 +1,4 @@
-# treinamento_mds
+# Treinamento de Docker para o Time 5
 
 ## Guia de Uso do Docker
 
@@ -47,3 +47,4 @@ Primeiramente é necessário ter o docker instalado, caso não tenha acesse o [I
  ```terminal
   sudo chown -R $USER:$USER .
  ```
+ 
